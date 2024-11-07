@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hello, World!
 
-<!--
-**09april2000/09april2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm [Your Name], a passionate developer who loves coding and creating innovative solutions. Here’s a glimpse into my world.
 
-Here are some ideas to get you started:
+![Animated Header](https://media.giphy.com/media/3o7aD2saq1g6w4Z7aA/giphy.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 I’m currently learning **React** and **Node.js**.
+- 💬 Ask me about **JavaScript**, **Python**, or anything tech-related!
+- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+
+## 🛠️ Technologies & Tools
+
+| Language          | Frameworks       | Tools                |
+|-------------------|------------------|----------------------|
+|
